@@ -1,7 +1,8 @@
 # TO-DO
 
-o TO-DO é uma aplicação para a anotação de tarefas, podendo adicionar, deletar e alterar as tarefas, feito usando os conhecimentos em Angular, Typescript e LocalStorage, 
-link do Netifly: https://lucas-to-doapp.netlify.app .
+o TO-DO é uma aplicação para a anotação de tarefas, podendo adicionar, deletar e alterar as tarefas, feito usando os conhecimentos em Angular, Typescript e LocalStorage
+##
+link do Netifly: https://1-to-do-app-angular-1.netlify.app/.
 
 # imagem
 
